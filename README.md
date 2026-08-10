@@ -84,7 +84,8 @@ Monto Perdido Devoluciones =
 SUMX(
     FILTER(Ventas, Ventas[Devuelto] = 1),
     Ventas[Venta_Neta]
-)
+) 
+```
 
 ---
 
