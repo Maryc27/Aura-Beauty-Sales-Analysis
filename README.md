@@ -91,7 +91,8 @@ SUMX(
 
 ## 📂 Estructura del Proyecto
 
-├── assets/                          # Imágen y capturas del dashboard
+```text
+├── assets/                          # Imagen y capturas del dashboard
 │   └── dashboard_overview.png
 ├── data/                            # Dataset limpio para análisis
 │   └── ventas_cosmeticos_limpio.csv
@@ -101,3 +102,4 @@ SUMX(
 │   └── aura_beauty_sales_report.pbix
 ├── .gitignore
 └── README.md
+```
