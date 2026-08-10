@@ -86,6 +86,8 @@ SUMX(
     Ventas[Venta_Neta]
 )
 
+---
+
 ## 📂 Estructura del Proyecto
 
 ├── assets/                          # Imágen y capturas del dashboard
