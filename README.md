@@ -34,7 +34,7 @@ El objetivo central es optimizar la estrategia de ventas y el margen de ganancia
 ### 1. Salud Financiera y Comportamiento Omnicanal
 * **Desempeño Global:** Ventas netas totales de **\$199.40K**, con una ganancia bruta de **\$119.84K** y un **margen promedio del 60.10%**.
 * **Dominio del Canal Digital:** El canal **E-commerce lidera las ventas con el 50% del total (\$100K)**, seguido por Retail Stores (\$80K / 40%). El canal de Distribuidores mantiene una participación marginal (\$19K / 10%).
-* **Estacionalidad:** La tendencia mensual refleja caídas pronunciadas en marzo (~\$14K), julio y septiembre (~\$15.2K), contrastando con picos en abril, agosto y noviembre (~\$17.5K - \$18.5K).
+* **Estacionalidad:** La tendencia mensual refleja caídas pronunciadas en marzo (\$14K), julio y septiembre (\$15.2K), contrastando con picos en abril, agosto y noviembre (\$17.5K - \$18.5K).
 
 ### 2. Análisis por Categoría (Volumen vs. Rentabilidad)
 * **Skin Care como Motor Comercial:** Aporta el mayor volumen de ingresos (\$77K) con un margen alineado al promedio general (60.59%).
