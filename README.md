@@ -13,11 +13,12 @@ El objetivo central es optimizar la estrategia de ventas y el margen de ganancia
 
 ---
 
-## 📊 Vista del Dashboard
+## 📊 Vistas del Dashboard
+
+> 🔗 **¡Explora el reporte interactivo en vivo!** Puedes interactuar con los filtros y la visualización completa haciendo clic en el siguiente enlace:
+> [👉 Ver Dashboard Interactivo de Aura Beauty Co. en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTZlNGJmZTUtZTA0Yi00Y2QzLWFmZDItNmJkMGI5MzAwYjhmIiwidCI6IjE0ZjNhOWRhLWQ5OWMtNGZjMi1iNTFlLTlkMGQxZGNkNWNhMCJ9)
 
 ![Dashboard Overview](assets/dashboard_overview.png)
-
-> *Nota: El reporte interactivo completo está disponible en la carpeta `dashboard/aura_beauty_sales_report.pbix`.*
 
 ---
 
