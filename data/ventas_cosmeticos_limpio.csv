@@ -1,4 +1,4 @@
- ID_Venta,Fecha,Canal,Categoria,Producto,Cantidad,Precio_Unitario,Costo_Unitario,Devuelto,Venta_Total,Costo_Total,Ganancia_Bruta,Margen_%,Venta_Neta
+ID_Venta,Fecha,Canal,Categoria,Producto,Cantidad,Precio_Unitario,Costo_Unitario,Devuelto,Venta_Total,Costo_Total,Ganancia_Bruta,Margen_%,Venta_Neta
 ORD-1000,2025-04-13,E-commerce,Makeup,Base de Maquillaje,3,22.63,12.48,0,67.89,37.44,30.450000000000003,44.85,67.89
 ORD-1001,2025-12-15,Distributor,Makeup,Mascara de Pestañas,2,62.91,20.24,0,125.82,40.48,85.34,67.83,125.82
 ORD-1002,2025-09-28,E-commerce,Makeup,Mascara de Pestañas,5,58.92,33.25,0,294.6,166.25,128.35000000000002,43.57,294.6
